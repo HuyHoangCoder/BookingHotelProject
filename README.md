@@ -1,4 +1,4 @@
-Link demo: https://studio.youtube.com/video/PWoMzo9LMqU/edit
+Link demo: [https://studio.youtube.com/video/PWoMzo9LMqU/edit](https://www.youtube.com/watch?v=PWoMzo9LMqU)
 ## **Chức năng của hệ thống VN Booking**
 
 ### **1. Chức năng dành cho khách hàng**
